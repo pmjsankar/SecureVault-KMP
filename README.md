@@ -1,4 +1,4 @@
-# SecureVault 🔐
+# SecureVault-KMP 🔐
 
 A secure, cross-platform vault application built with Kotlin Multiplatform and Compose Multiplatform. SecureVault
 provides encrypted storage for sensitive data across Android, iOS, and Desktop platforms.
